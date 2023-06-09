@@ -26,7 +26,7 @@
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Camiones</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p class="card-text">Cambio en camiones prueba, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     <a href="{{route('camion.index')}}" class="btn btn-primary btn-sm">Ir</a>
                 </div>
             </div>
